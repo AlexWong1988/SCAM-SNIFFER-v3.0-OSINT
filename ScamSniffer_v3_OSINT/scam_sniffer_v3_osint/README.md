@@ -1,7 +1,8 @@
 # SCAM SNIFFER v3.0 — OSINT EDITION
 ## Singapore Forum & Threat Intelligence Scanner
 
-Pure OSINT tool. No API keys needed. Just Python and an internet connection.
+<img width="1405" height="888" alt="image" src="https://github.com/user-attachments/assets/cc41dfa0-74f9-47aa-973a-c79e81079b99" />
+
 
 ---
 
